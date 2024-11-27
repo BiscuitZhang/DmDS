@@ -37,3 +37,11 @@ Assuming your input file is `instance.dimacs` and located at `/path/to/your/data
   year={2024},
   publisher={Elsevier}
 }
+
+
+## Contact
+
+If you have any questions, feel free to reach out via email:
+
+**Email**: yuzhang.cs@stu.pku.edu.cn
+
